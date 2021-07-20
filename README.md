@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![linkedin badge](https://img.shields.io/badge/linkedin-krishkavya-0077b5?style=social&logo=linkedin)]
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-krishkavya?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/krishkavya/)
 [![Badge](https://cp-logo.vercel.app/codechef/krishkavya03)](https://www.codechef.com/users/krishkavya03)
 [![Badge](https://cp-logo.vercel.app/codeforces/krishkavya)](https://codeforces.com/profile/krishkavya)
 
@@ -23,6 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [krishkavya03@gmail.com](mailto:krishkavya03@gmail.com)
 
 <img align="left" src = "https://github-readme-stats.vercel.app/api?username=krishkavya&show_icons=true&theme=radical&hide_rank=true"/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishkavya&layout=compact&langs_count=10&exclude_repo=AutomateBoringStuffWithPython,krishkavya.github.io&theme=radical" />
 
